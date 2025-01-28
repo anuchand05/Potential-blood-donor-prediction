@@ -8,3 +8,11 @@ Blood donation is a critical aspect of healthcare, yet many regions face challen
 Predict the likelihood of individuals donating blood.
 Improve targeting strategies for blood donation campaigns.
 Reduce the gap between blood demand and supply.
+
+3. Data Requirements
+The prediction model would require a dataset with attributes such as:
+
+Demographics: Age, gender, occupation, location.
+Behavioral Data: Past donation history, frequency of donations.
+Health Indicators: Hemoglobin levels, blood pressure, overall health.
+Lifestyle Factors: Diet, exercise habits, smoking or alcohol use.
