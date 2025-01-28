@@ -28,3 +28,18 @@ Identify key factors influencing blood donation, such as:
 Past donation frequency.
 Age range most likely to donate.
 Health-related variables.
+
+Modeling
+Classification Algorithms: Logistic Regression, Decision Trees, Random Forest, Naive Bayes, Support Vector Machines (SVM), Neural Networks.
+Evaluation Metrics: Accuracy, Precision, Recall, F1-score, Area Under the Curve (AUC).
+Model Deployment
+Build a user-friendly interface for blood banks to input donor data and receive predictions.
+Integrate the system into existing donor management platforms.
+5. Challenges
+Ensuring data privacy and security.
+Addressing class imbalance if non-donors dominate the dataset.
+Dealing with incomplete or inconsistent data.
+6. Benefits
+Improved donor retention and recruitment.
+Reduced operational costs for blood banks.
+Ensured timely availability of blood for emergencies.
