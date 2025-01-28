@@ -16,3 +16,15 @@ Demographics: Age, gender, occupation, location.
 Behavioral Data: Past donation history, frequency of donations.
 Health Indicators: Hemoglobin levels, blood pressure, overall health.
 Lifestyle Factors: Diet, exercise habits, smoking or alcohol use.
+
+4. Methodology
+Data Preprocessing
+Handle missing values and outliers.
+Normalize or standardize data.
+Encode categorical variables.
+Feature Selection
+Identify key factors influencing blood donation, such as:
+
+Past donation frequency.
+Age range most likely to donate.
+Health-related variables.
